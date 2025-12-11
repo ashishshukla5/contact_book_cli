@@ -17,16 +17,14 @@ Fully modular and clean code structure
 
 📁 Project Structure
 
-contact_book_cli/
+```📦 contact_book_cli
+├── 📁 src
+│   └── 📝 main.py
 │
-├── src/
-│     └── main.py
-│
-├── contacts.json
-├── README.md
-├── requirements.txt
-
-🎬 Demo / Screenshots
+├── 📄 contacts.json
+├── 📄 README.md
+├── 📄 requirements.txt
+```
 
 ▶️ How to Run the Project
 
