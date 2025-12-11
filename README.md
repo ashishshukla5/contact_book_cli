@@ -23,9 +23,8 @@ Fully modular and clean code structure
 │
 ├── 📄 contacts.json
 ├── 📄 README.md
-├── 📄 requirements.txt```
-
-🎬 Demo / Screenshots
+├── 📄 requirements.txt
+```
 
 ▶️ How to Run the Project
 
